@@ -1,2 +1,3 @@
 cryptography
+pybase64
 colorama
