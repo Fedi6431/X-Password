@@ -1,3 +1,2 @@
 cryptography
-base64
 colorama
