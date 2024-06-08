@@ -1,2 +1,33 @@
-I'm bored so i don't want to write the tutorial, try this program by yourself
-I will make the tutorial another day
+# X-Backup
+
+## ⚠ PLEASE ATTENTION ⚠
+This program was developed with Windows
+
+I'll also make a linux version but not now
+
+# User guide 
+## Installer
+![immagine](https://github.com/Fedi6431/X-password/assets/102946457/b56c763b-ae0c-48df-b546-83be257919a3)
+
+Don't worry about this Windows Defender popup, because you have downloaded a file from an external source, so Windows Defender will say that running this app can expose you to risk
+
+Just click on "more info" and the "run" button
+
+When you run the installer, it will download the necessary packages on requirements.txt and then start the program
+
+## X-Password
+![immagine](https://github.com/Fedi6431/X-password/assets/102946457/921f0629-3609-47ab-90ff-6de5b3f2d884)
+
+This is the main GUI of the program.
+
+### Functions & Controls
+
+#### - help
+If you type "help" in the program console, you will be shown all the possible commands with their descriptions.
+
+#### - version
+The program will show the current version
+
+#### - info
+The program will show the author and the github link
+
