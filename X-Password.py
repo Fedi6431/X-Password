@@ -337,7 +337,7 @@ Info            Show infos
             print(f"{pass_Menu}")
             chooo = input("Choose the option: ")
             if chooo == '1':
-                def generate_password(length=50, include_uppercase=True, include_digits=True, include_special_chars=False):
+                def generate_password(length=50, include_uppercase=True, include_digits=True, include_special_chars=True):
                     characters = string.ascii_lowercase
                     if include_uppercase:
                         characters += string.ascii_uppercase
