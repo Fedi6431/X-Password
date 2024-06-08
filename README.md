@@ -31,6 +31,7 @@ When you type "password" the program will show two options
 -password generator
 
 -password strong test
+
 If you select the first option (password generator), the program create a strong password with the length of 50 characters with uppercase and special characters
 
 On the other hand, if you select the secondary option (strong password test) the program will ask you to write a password, after writing a password it will check if it is strong
