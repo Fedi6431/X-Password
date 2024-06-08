@@ -36,6 +36,9 @@ If you select the first option (password generator), the program create a strong
 
 On the other hand, if you select the secondary option (strong password test) the program will ask you to write a password, after writing a password it will check if it is strong
 
+#### - hash
+When you type "hash" into the console, the program asks you to write a string (word) after writing a string, the program will translate that string into SHA-256
+
 #### - version
 The program will show the current version
 
