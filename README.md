@@ -25,6 +25,12 @@ This is the main GUI of the program.
 #### - help
 If you type "help" in the program console, you will be shown all the possible commands with their descriptions.
 
+#### - password
+When you type "password" the program will show two options
+-password generator
+-password strong test
+If you select the first option (password generator), the program create a strong password with the length of 50 characters with uppercase and special characters
+
 #### - version
 The program will show the current version
 
