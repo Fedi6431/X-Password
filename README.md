@@ -39,6 +39,14 @@ On the other hand, if you select the secondary option (strong password test) the
 #### - hash
 When you type "hash" into the console, the program asks you to write a string (word) after writing a string, the program will translate that string into SHA-256
 
+#### - encrypt
+When you type "encrypt" the program will open a selection menu for the options:
+
+-Encrypt text
+
+-Encrypt file
+
+If you select the first option (encrypt text) the program will ask you to write a message and the encryption number, after selecting the encryption number, the program will print the encrypted word
 #### - version
 The program will show the current version
 
