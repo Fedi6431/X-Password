@@ -47,6 +47,16 @@ When you type "encrypt" the program will open a selection menu for the options:
 -Encrypt file
 
 If you select the first option (encrypt text) the program will ask you to write a message and the encryption number, after selecting the encryption number, the program will print the encrypted word
+
+On the other hand, if you select the second option (encrypt file) the program will ask you the file path, after writing the file path the program will encrypt the file
+
+#### - decrypt
+Same thing of encrpy but reversed so
+
+If you select the first option (decrypt text) the program will ask you to write a message and the encryption number, after selecting the encryption number, the program will print the decrypted word
+
+On the other hand, if you select the second option (decrypt file) the program will ask you the file path, after writing the file path the program will decrypt the file
+
 #### - version
 The program will show the current version
 
