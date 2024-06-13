@@ -2,9 +2,6 @@
 
 ## ⚠ PLEASE ATTENTION ⚠
 This program was developed with Windows
-
-I'll also make a linux version but not now
-
 # User guide 
 ## Installer
 ![immagine](https://github.com/Fedi6431/X-password/assets/102946457/b56c763b-ae0c-48df-b546-83be257919a3)
